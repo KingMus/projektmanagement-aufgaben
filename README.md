@@ -5,3 +5,4 @@
 * The most important things are *Projektdefinition+Risiken+Ressourcen*, *Dokumentation meiner Handlungen*, the MPP and the *Projektabschluss*. I guess sending everything else (like images and some really specific documentations) was more than neccessary.
 * This was graded with an 1,0. So having a similar granularity should be enough, I would even say you can achieve a 1,0 with less than this.3
 * Sorry for the missing mail texts and dates, but I doesn't have them anymore. Wasn't interesting either.
+* The documents are in german, also filenames contains spaces (blame me).
