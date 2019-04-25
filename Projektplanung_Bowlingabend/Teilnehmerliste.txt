@@ -1,0 +1,16 @@
+Name			zugesagt	zugesagt, aber nur fürs bowlen
+Name			abgesagt
+Name			keine Antwort	abgesagt
+Name			keine Antwort	zugesagt, aber nur fürs bowlen
+Name			zugesagt
+Name			keine Antwort	immernoch keine Antwort
+Name			keine Antwort	immernoch keine Antwort
+Name			zugesagt
+Name			zugesagt
+
+[Anmerkung: Echtdaten sind ersetzt]
+
+an diese Personen werden Einladungen verschickt
+
+nach erstem Nachfragen: 4 Teilnehmer + mich
+nach zweitem Nachfragen: 5 Teilnehmer + mich
